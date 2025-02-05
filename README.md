@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game using Java Swing and AWT Libraries
 
 ## Introduction
 Welcome to the Snake Game! This is a simple yet fun game built using Java and Swing. The objective of the game is to control the snake using arrow keys, eat apples to grow in size, and avoid colliding with the edges or itself.
